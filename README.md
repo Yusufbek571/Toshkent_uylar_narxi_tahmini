@@ -1,1 +1,2 @@
-# Toshkent_uylar_narxi_tahmini
+# Ornek proceler
+
